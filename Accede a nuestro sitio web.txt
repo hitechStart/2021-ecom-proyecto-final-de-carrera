@@ -1,3 +1,8 @@
+Objetivo:
+
+Se propone un sistema que permita analizar y dar seguimiento a los mercados dentro del ecosistema de e-commerce. Quienes accedan a la plataforma podrán realizar consultas sobre un producto o categoría del mercado así como solicitar un análisis de sus competidores recibiendo la información de forma interpretada luego de la recolección de datos de las distintas bases de datos de los principales centros de e-commerce
+Lo que se busca es que quien use nuestra plataforma tenga la posibilidad de entrar al mercado y convertirse en un potencial competidor en su área, teniendo la oportunidad de incrementar sus ganancias.
+
 Accede a nuestro sitio web aqui:
 
 http://ecomunlamfront.us-east-1.elasticbeanstalk.com/
